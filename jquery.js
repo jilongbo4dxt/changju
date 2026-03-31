@@ -1,3 +1,7 @@
-function hello(){
-    alert('jsDelivr 成功啦！');
-}
+window.getChangJuAppInfo = function() {
+    return {
+        name: "jQuery",
+        version: "1.11.3",
+        canUse:true
+    }
+};
