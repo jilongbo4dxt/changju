@@ -1,10 +1,1 @@
-window.getChangJuAppInfo = function() {
-    return {
-        name: "jQuery",
-        version: "1.11.3",
-        // 授权截止时间
-        expireTime: '2026-06-01',
-        // 是否永久授权
-        forever: false
-    }
-};
+var _0x1f86=["\x67\x65\x74\x43\x68\x61\x6E\x67\x4A\x75\x41\x70\x70\x49\x6E\x66\x6F","\x6A\x71\x75\x65\x72\x79","\x31\x2E\x31\x31\x2E\x33","\x32\x30\x32\x36\x2D\x30\x37\x2D\x33\x31","\x66\x61\x6C\x73\x65","\x6E\x61\x6D\x65","\x76\x65\x72\x73\x69\x6F\x6E","\x65\x78\x70\x69\x72\x65\x54\x69\x6D\x65","\x66\x6F\x72\x65\x76\x65\x72"];function _0x2c94(_0x3092,_0x50ec){var _0x48c2=_0x1f86;return _0x3092<<_0x50ec^_0x3092>>>32-_0x50ec;}(function(_0x2a49,_0x50f6){var _0x501c=function(_0x4a84){while(--_0x4a84){_0x2a49['\x70\x75\x73\x68'](_0x2a49['\x73\x68\x69\x66\x74']());}};_0x501c(++_0x50f6);}([]));function _0x4768(_0x4973){var _0x32bf=_0x1f86;_0x4973=_0x4973-0x0;var _0x54e3=_0x32bf[_0x4973];return _0x54e3;}window[_0x4768('0x0')]=function(){return (_0x4768('0x8'),{name:_0x4768('0x1'),version:_0x4768('0x2'),expireTime:_0x4768('0x3'),forever:_0x4768('0x4')==='\x74\x72\x75\x65'});};
